@@ -93,39 +93,21 @@ const mickael = {
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">Portfolio Website</h3>
+        <h3 align="center">Simple Shell</h3>
         <div align="center">
-          <a href="https://github.com/mickael-mur/mickael-mur.github.io" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=mickael-mur&repo=mickael-mur.github.io&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Portfolio" />
+          <a href="https://github.com/mickael-mur/holbertonschool-simple_shell" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=mickael-mur&repo=holbertonschool-simple_shell&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Simple Shell" />
           </a>
-          <p><strong>HTML, CSS, JavaScript</strong> - Personal portfolio website showcasing my projects, skills and experience</p>
+          <p><strong>C Programming</strong> - Unix shell implementation with command execution, environment variables, and built-in commands</p>
         </div>
       </td>
       <td width="50%">
-        <h3 align="center">Mnesya</h3>
+        <h3 align="center">HBNB - AirBnB Clone</h3>
         <div align="center">
-          <a href="https://github.com/mickael-mur/Mnesya" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=mickael-mur&repo=Mnesya&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Mnesya" />
+          <a href="https://github.com/mickael-mur/holbertonschool-hbnb" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=mickael-mur&repo=holbertonschool-hbnb&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="HBNB" />
           </a>
-          <p><strong>React, Node.js</strong> - Memory-based application with modern UI/UX design</p>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Backend Development</h3>
-        <div align="center">
-          <a href="https://github.com/mickael-mur/holbertonschool-web_back_end" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=mickael-mur&repo=holbertonschool-web_back_end&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Backend" />
-          </a>
-          <p><strong>Python, JavaScript, NoSQL</strong> - Comprehensive backend projects covering APIs, databases, and server-side programming</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">More Projects Coming Soon...</h3>
-        <div align="center">
-          <img src="https://via.placeholder.com/400x120/0D1117/A855F7?text=Stay+Tuned+for+More" alt="Coming Soon" />
-          <p><strong>Various Technologies</strong> - Currently working on exciting new projects!</p>
+          <p><strong>Python, Flask, SQLAlchemy</strong> - Full-stack web application clone of AirBnB with RESTful API and database integration</p>
         </div>
       </td>
     </tr>
