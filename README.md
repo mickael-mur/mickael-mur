@@ -95,8 +95,8 @@ const mickael = {
       <td width="50%">
         <h3 align="center">Simple Shell</h3>
         <div align="center">
-          <a href="https://github.com/mickael-mur/holbertonschool-simple_shell" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=mickael-mur&repo=holbertonschool-simple_shell&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Simple Shell" />
+          <a href="https://github.com/mickael-mur/holberton-simple_shell" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=mickael-mur&repo=holberton-simple_shell&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Simple Shell" />
           </a>
           <p><strong>C Programming</strong> - Unix shell implementation with command execution, environment variables, and built-in commands</p>
         </div>
