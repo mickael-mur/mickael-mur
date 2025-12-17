@@ -76,12 +76,16 @@ const mickael = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mickael-mur&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mickael-mur&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
-</div>
+<br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mickael-mur&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=3" alt="GitHub Trophies"/>
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=mickael-mur&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=mickael-mur&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=6" alt="GitHub Trophies"/>
 </div>
 
 <br/>
