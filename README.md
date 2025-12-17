@@ -129,17 +129,17 @@ const mickael = {
 
 <div align="center">
 
-### 💭 Developer Quote
+<h3>💭 Developer Quote</h3>
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight&animation=default&layout=default&font=default)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 
-<br/>
+<br/><br/>
 
-### 👁️ Profile Views
+<h3>👁️ Profile Views</h3>
 
-![Visitor Count](https://profile-counter.glitch.me/mickael-mur/count.svg)
+<img src="https://komarev.com/ghpvc/?username=mickael-mur&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile views" />
 
-<br/>
+<br/><br/>
 
 ---
 
