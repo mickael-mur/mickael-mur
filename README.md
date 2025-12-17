@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="profile-picture.jpeg" alt="Mickael" width="200" style="border-radius: 50%; border: 4px solid #A855F7;" />
-
 # Hi, I'm Mickael!
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Passionate+about+code;Always+learning" alt="Typing SVG" />
@@ -11,6 +9,8 @@
 ---
 
 ## About Me
+
+<img align="right" src="profile-picture.jpeg" alt="Mickael" width="200" style="border-radius: 50%; border: 4px solid #A855F7;" />
 
 - Student at **Holberton School**
 - Passionate about web development and modern technologies
