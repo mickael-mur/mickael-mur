@@ -79,19 +79,7 @@ const mickael = {
 <br/>
 
 <div align="center">
-  <img width="90%" src="https://streak-stats.demolab.com/?user=mickael-mur&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=mickael-mur&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="GitHub Trophies"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mickael-mur&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="98%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mickael-mur&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="98%" alt="Contribution Graph"/>
 </div>
 
 ## 🌟 Featured Projects
