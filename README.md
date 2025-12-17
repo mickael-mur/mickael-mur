@@ -54,8 +54,8 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mickael-mur&show_icons=true&theme=tokyonight&count_private=true&hide=issues"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mickael-mur&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mickael-mur&show_icons=true&theme=tokyonight&count_private=true&hide=issues" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mickael-mur&layout=compact&langs_count=8&theme=tokyonight" />
 
 </div>
 
@@ -87,10 +87,28 @@
 
 ---
 
-## Featured Projects<div align="center">
+## Featured Projects
 
+<div align="center">
+
+### Portfolio Website
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mickael-mur&repo=mickael-mur.github.io&theme=tokyonight)](https://github.com/mickael-mur/mickael-mur.github.io)
+
+Personal portfolio website showcasing my projects and skills
+
+---
+
+### Mnesya
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mickael-mur&repo=Mnesya&theme=tokyonight)](https://github.com/mickael-mur/Mnesya)
+
+Memory-based application project
+
+---
+
+### Holberton School Projects
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mickael-mur&repo=holbertonschool-web_back_end&theme=tokyonight)](https://github.com/mickael-mur/holbertonschool-web_back_end)
+
+Collection of backend development projects covering Python, JavaScript, ES6, NoSQL, and more
 
 </div>
 
